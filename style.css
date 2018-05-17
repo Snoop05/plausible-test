@@ -1,0 +1,12 @@
+body {
+     height: 100%;
+     background-color: #2A2C31;
+     font-family: Roboto;
+}
+nav {
+     background-color: #2A2C31;
+}
+.jumbotron {
+     background-color: #2A2C31;
+     color: #FFFFFF;
+}
